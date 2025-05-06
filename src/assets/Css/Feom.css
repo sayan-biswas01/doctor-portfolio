@@ -1,0 +1,49 @@
+.llp {
+  border: 1px solid black;
+}
+.from {
+  margin-left: 20px;
+}
+label {
+  font-size: xx-large;
+}
+input {
+  width: 80%;
+  padding: 12px 25px;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: justify;
+  t
+}
+textarea {
+  width: 80%;
+  height: 300px;
+  padding: 30px 12px;
+  margin: 8px;
+  margin-left: 80px;
+}
+.left {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+  text-align: justify;
+}
+.imagg{
+    width: 50px;
+    height: 50px;
+    transform: none;
+    
+    color: aqua;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: large;
+}
+.what{
+    margin-top: 10px;
+    background-color: brown;
+}
+button {
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 10px;
+}

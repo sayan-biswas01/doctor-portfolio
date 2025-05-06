@@ -1,0 +1,13 @@
+.about {
+  font-size: xx-large;
+  font-style: italic;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+.dimg {
+  height: 80px;
+  width: 80px;
+  margin-top: 20px;
+  margin-left: 30px;
+  border: 2px solid blue;
+}

@@ -1,0 +1,25 @@
+#carouselExampleFade {
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  background-image: url("../pictur/medacin.jpg");
+}
+@media (max-width: 992px) {
+  #carouselExampleFade {
+    background-color: rgb(8, 24, 69);
+    height: 130vh;
+  }
+}
+.fastdr {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 300px;
+}

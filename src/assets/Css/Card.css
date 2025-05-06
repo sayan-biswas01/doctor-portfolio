@@ -1,0 +1,17 @@
+#feather {
+  padding: 5% 10%;
+}
+.feather-col {
+  border: 1px solid rgb(224, 18, 145);
+  border-radius: 5px;
+  padding: 15px;
+  height: 300px;
+
+  transition: 0.4s;
+}
+.feather-col:hover {
+  color: azure;
+  transform: scale(1.1);
+  box-shadow: 5px 3px 5px rgb(10, 40, 40);
+  background-color: black;
+}
