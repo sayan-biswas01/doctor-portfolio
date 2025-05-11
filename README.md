@@ -1,3 +1,9 @@
 # My React Project
 
-[Live Project](https://sayan-biswas01.github.io/doctor-portfolio/)
+[Live Demo Project](https://sayan-biswas01.github.io/doctor-portfolio/)
+
+### the project language
+
+'''javascript
+console.log('hello');
+'''

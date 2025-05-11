@@ -14,6 +14,15 @@
     height: 130vh;
   }
 }
+@media (max-width: 768px) {
+  .carousel-item > img {
+    all: unset;
+    height: 300px;
+    width: 500px;
+    justify-items: center;
+  }
+}
+
 .fastdr {
   font-family: Arial, Helvetica, sans-serif;
   color: black;

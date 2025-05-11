@@ -3,7 +3,7 @@ import logo from "../assets/pictur/logo.jpg";
 import "../assets/Css/Header.css";
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light m-3 p-1">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light m-3 p-1 ">
       <div className="container-fluid  ">
         <a className="navbar-brand fs-3  " href="#">
           <img src={logo} style={{ height: "60px" }} alt="logo" />

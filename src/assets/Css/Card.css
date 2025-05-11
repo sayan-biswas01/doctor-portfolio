@@ -11,7 +11,6 @@
 }
 .feather-col:hover {
   color: azure;
-  transform: scale(1.1);
   box-shadow: 5px 3px 5px rgb(10, 40, 40);
   background-color: black;
 }
